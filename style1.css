@@ -1,0 +1,21 @@
+.jumbotron {
+    background-image: url(deli1.jpg);
+    background-size: cover;
+    height: 300px;
+    margin-top: 2rem;
+}
+#jumboBody {
+    color: white;
+    background-color: black;
+    text-align: center;
+    font-family: 'Roboto', sans-serif;
+    padding: 1em;
+}
+#jumboHeadline {
+    font-family: 'Josefin Sans', sans-serif;
+    font-size: 3rem;
+    font-weight: bold;
+}
+/* .jumboButton {
+    padding: 6px 8px 6px 16px;
+} */
